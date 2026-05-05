@@ -84,6 +84,11 @@ sudo bash install-nvidia340.sh --vaio --restore-full
 - See **[SECURITY.md](SECURITY.md)** (scope, reporting, out-of-scope).
 - There is no `curl | bash` one-liner to fetch this script from the internet — you run a local repo file.
 
+## Credits / attribution
+
+This repo is based on, and heavily inspired by, the work published by **kda2210** in **`nvidia-340-ubuntu-24.04`** (packaging + DKMS fixes for NVIDIA 340.108 on Ubuntu 24.04).  
+Upstream reference: **[kda2210/nvidia-340-ubuntu-24.04](https://github.com/kda2210/nvidia-340-ubuntu-24.04)**.
+
 ## License
 
 See **[LICENSE](LICENSE)** (MIT) unless the release notes say otherwise.
