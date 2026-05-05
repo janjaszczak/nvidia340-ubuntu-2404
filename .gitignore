@@ -1,0 +1,9 @@
+*.crash
+*.log
+kernel-build/
+.cursor/
+.vscode/
+.idea/
+*~
+.DS_Store
+*.bak.*
